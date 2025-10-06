@@ -1,0 +1,25 @@
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Editores
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+
+# Temporários
+*.tmp
+*.temp
+
+# Node modules (caso adicione build tools no futuro)
+node_modules/
+package-lock.json
+
+# Build (caso adicione processo de build)
+dist/
+build/
